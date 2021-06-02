@@ -7,3 +7,7 @@
 ==5== Gerar um arquivo README.md na raiz do projeto (README.md será utilizado para documentar informarções do projeto - na geral)
 ==6== git add . (Adicionando os arquivos que serão enviados para o repositório - utilizando o commit em seguida)
 ==7== git commit -m "INITIAL COMMIT"
+==8== git push -u origin master
+==9== ##OPCIONAL## Gerar uma nova BRANCH
+        --9.1-- git branch <Nome_Da_Branch> (Gerar nova branch)
+        --9.2-- git branch -v (Visualizar branch)
